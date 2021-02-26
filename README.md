@@ -1,2 +1,7 @@
 # miPrimerRepo
-Lorem Ipsum
+# Titulo
+## Subtitulo
+### SubSubTitulo
+*Lorem Ipsum*
+*cursiva*
+**negritas**
